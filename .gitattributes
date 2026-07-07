@@ -1,0 +1,3 @@
+# Tell GitHub Linguist: Markdown is the primary language for this project
+*.md linguist-detectable
+*.md linguist-documentation=false
