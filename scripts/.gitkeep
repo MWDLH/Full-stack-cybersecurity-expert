@@ -1,0 +1,3 @@
+# 保留 scripts/ 目录结构
+# Agent 运行时在此目录动态编写 PoC/EXP/日志解析脚本
+# 详见 SKILL.md Section 3 "Tool & Weapon Management"

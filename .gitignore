@@ -1,0 +1,23 @@
+# Agent session files
+.agent_session.json
+
+# Runtime scripts (Agent 现场编写, 不入库)
+scripts/*.py
+scripts/*.sh
+scripts/*.ps1
+
+# Keep directory structure
+!scripts/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
