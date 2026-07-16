@@ -1,4 +1,4 @@
-> [English](README_en.md)
+> [View English Docs](README_en.md)
 
 # 全栈信息安全专家 (Full-Stack Cybersecurity Expert)
 
