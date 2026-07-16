@@ -1,4 +1,4 @@
-> [View Chinese Documentation](README.md)
+> [中文](README.md)
 
 # Full-Stack Cybersecurity Expert
 
